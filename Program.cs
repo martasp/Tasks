@@ -37,7 +37,7 @@ namespace Tasks
             }
         }
         /// <summary>
-        /// This algorithm is only good for short strings for longer string is better use effcient algorithms like Rabin–Karp algorithm.
+        /// This algorithm is only good for short strings for longer string is better use efficient algorithms like Rabin–Karp algorithm.
         /// </summary>
         /// <param name="substring"></param>
         /// <param name="all"></param>
